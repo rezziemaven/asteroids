@@ -18,7 +18,7 @@ wheels = [
 ]
 
 [[package]]
-name = "rezzie-asteroids"
+name = "asteroids"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
