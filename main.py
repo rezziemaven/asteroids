@@ -31,8 +31,6 @@ def main():
     dt = 0  # tracks delta time
 
     print(f"Starting Asteroids with pygame version: {pygame.version.ver}")
-    print(f"Screen width: {SCREEN_WIDTH}")
-    print(f"Screen height: {SCREEN_HEIGHT}")
 
     while True:
         log_state()
